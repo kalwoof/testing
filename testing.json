@@ -4,7 +4,7 @@
         "BACKGROUND_PRIMARY": ["#e3ccce", "#FFFFFF"],
         "BACKGROUND_SECONDARY": ["#e6c2c5", "#FFFFFF"],
         "BACKGROUND_SECONDARY_ALT": ["#f5eded", "#FFFFFF"],
-        "BACKGROUND_TERTIARY": ["#f5eded", "#FFFFFF"],
+        "BACKGROUND_TERTIARY": ["#e6d8d9", "#FFFFFF"],
         "BACKGROUND_ACCENT": ["#e4bcbf", "#FFFFFF"],
         "BACKGROUND_FLOATING": ["#e6c2c5", "#FFFFFF"],
         "BACKGROUND_NESTED_FLOATING": ["#F5EDED", "#FFFFFF"],
