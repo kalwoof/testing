@@ -1,10 +1,10 @@
 {
     "name": "testing",
     "theme_color_map": {
-        "BACKGROUND_PRIMARY": ["#000000", "#FFFFFF"],
-        "BACKGROUND_SECONDARY": ["#f5eded", "#FFFFFF"],
+        "BACKGROUND_PRIMARY": ["#e3ccce", "#FFFFFF"],
+        "BACKGROUND_SECONDARY": ["#e6c2c5", "#FFFFFF"],
         "BACKGROUND_SECONDARY_ALT": ["#f5eded", "#FFFFFF"],
-        "BACKGROUND_TERTIARY": ["#e6c2c5", "#FFFFFF"],
+        "BACKGROUND_TERTIARY": ["#f5eded", "#FFFFFF"],
         "BACKGROUND_ACCENT": ["#e4bcbf", "#FFFFFF"],
         "BACKGROUND_FLOATING": ["#e6c2c5", "#FFFFFF"],
         "BACKGROUND_NESTED_FLOATING": ["#F5EDED", "#FFFFFF"],
